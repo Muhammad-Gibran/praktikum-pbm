@@ -1,16 +1,10 @@
-# tugas8_pbm2
+# Uas PBM 
+Anggota Kelompok : 
+- Muhammad Gibran (2010631170097)
+- Muhammad Haris (2010631170098)
+- Muhammad Fiqri Faturrian (2010631170096)
+- Mohamad Fahrul Allawy (2010631170089)
+- M Rio Sulhan Abdillah (2010631170150)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Apk Build
+Untuk File Apk dari project ini terdapat pada folder .apk_build
